@@ -43,6 +43,6 @@ The results of the project will include the following:
 5. Final Report: A detailed report summarizing the methodology, analysis, and key findings, along with recommendations for stakeholders in the automotive industry.
 
 ## Documentation
-1. car_australiav2.ipynb: This file likely contains the Python code and data analysis workflow for the Australian Vehicle Project.
-2. Full Dataset Australian Vehicle Prices Assessment 2 2023 T3.csv: This file contains the raw data used for the analysis and modeling in the Australian Vehicle Project.
-3. TECH3200-Assessment-2-Dataset-Instruction-2023-T3.docx: This document provides the instructions and context for the dataset used in the project.
+1. [car_australiav2.ipynb](https://github.com/micsupasun/regression/blob/main/australia_vehicle_project/car_australiav2.ipynb): This file likely contains the Python code and data analysis workflow for the Australian Vehicle Project.
+2. [Full Dataset Australian Vehicle Prices Assessment 2 2023 T3.csv](https://github.com/micsupasun/regression/blob/main/australia_vehicle_project/Full%20Dataset%20Australian%20Vehicle%20Prices%20Assessment%202%202023%20T3.csv): This file contains the raw data used for the analysis and modeling in the Australian Vehicle Project.
+3. [TECH3200-Assessment-2-Dataset-Instruction-2023-T3.docx](https://github.com/micsupasun/regression/blob/main/australia_vehicle_project/TECH3200-Assessment-2-Dataset-Instruction-2023-T3.docx): This document provides the instructions and context for the dataset used in the project.
